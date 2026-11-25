@@ -1,4 +1,4 @@
-# LoRa secure nodes (PlatformIO) - not tested on real hardware yet
+# LoRa secure nodes (PlatformIO)
 
 ## Layout
 - `include/`  shared code + settings: `config.h` (pins, 3 h interval), `secrets.h` (Wi-Fi, Adafruit, AES key; git-ignored), `peer_keys.h` (public keys)
